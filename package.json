@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "socialmedia",
   "main": "server.js",
+  
+  "engines": {
+    "node": "12.x",
+    "npm": "6.x"
+  },
   "scripts": {
     "start": "node server",
     "server": "nodemon server",
