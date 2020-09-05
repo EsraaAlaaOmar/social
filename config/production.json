@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://esraa:esraa123@esraa1-iaecv.mongodb.net/<dbname>?retryWrites=true",
+    "JwtSecret": "mysecrettoken",
+    "Client ID":"ab1dcd74a04b527bffdf",
+  "Client Secret": "b7d0a43f2eb47ef480b03f1892dd7e22e9cf46be"
+  }
+  
